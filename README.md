@@ -32,7 +32,7 @@ I am a 2024 B.Tech graduate in Electrical and Electronics Engineering, focused o
 
 [View Project](projects/rtl-to-gdsii/00-README.md)
 
-### REG-to-REG Synthesis & Timing Analysis
+### Synthesis & Timing Analysis — `REG-to-REG`
 
 RTL synthesis and timing analysis using Synopsys Design Compiler.
 
