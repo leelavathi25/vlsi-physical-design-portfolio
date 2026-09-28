@@ -21,7 +21,7 @@ The QoR report provides information related to:
 - Critical paths
 - Optimization results
 
-![QoR report](./19-report-qor.jpg)
+![QoR report](images/19-report-qor.jpg)
 
 ## Key Command
 
