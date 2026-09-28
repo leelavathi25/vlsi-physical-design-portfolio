@@ -10,48 +10,31 @@ Convert the RTL design into an optimized gate-level netlist while applying the r
 
 ## Synthesis Flow
 
-The synthesis flow covered the following steps:
-
-1. Link library setup
-2. Target library setup
-3. RTL analysis
-4. RTL elaboration
-5. Design compilation
-6. Design checking
-7. Timing checking
-8. Clock definition
-9. Clock reporting
-10. Timing constraint application
-11. Timing analysis
-12. QoR analysis
+| Synthesis Stage                | Key Commands                                                   |
+| ------------------------------ | -------------------------------------------------------------- |
+| Library Setup                  | `link_library`, `target_library`                               |
+| RTL Analysis                   | `analyze`                                                      |
+| RTL Elaboration                | `elaborate`                                                    |
+| Logic Synthesis & Optimization | `compile`                                                      |
+| Design Checking                | `check_design`                                                 |
+| Timing Checking                | `check_timing`                                                 |
+| Clock Definition               | `create_clock`                                                 |
+| Clock Reporting                | `report_clock`                                                 |
+| Timing Constraints             | `set_input_delay`, `set_output_delay`, `set_clock_uncertainty` |
+| Path Grouping                  | `group_path`                                                   |
+| Timing Analysis                | `report_timing`                                                |
+| QoR Analysis                   | `report_qor`                                                   |
 
 ## Work Performed
 
 * Technology library setup using link and target libraries
-* RTL analysis and syntax checking
-* RTL elaboration
+* RTL analysis and elaboration
 * Logic synthesis and optimization
-* Design consistency checking
-* Timing constraint definition
+* Design and timing checks
 * Clock definition and reporting
+* Timing constraint application
 * Timing analysis
 * QoR analysis
-
-## Key Commands
-
-* `analyze`
-* `elaborate`
-* `compile`
-* `check_design`
-* `check_timing`
-* `create_clock`
-* `report_clock`
-* `set_input_delay`
-* `set_output_delay`
-* `set_clock_uncertainty`
-* `group_path`
-* `report_timing`
-* `report_qor`
 
 ## Outcome
 
