@@ -26,7 +26,19 @@ I am a 2024 B.Tech graduate in Electrical and Electronics Engineering, focused o
 
 ## Projects
 
-Projects and technical documentation will be added here.
+## Projects
+
+### RTL-to-GDSII Physical Design — `iguana_soc`
+
+28nm ASIC Physical Design using Cadence Genus and Innovus.
+
+[View Project](projects/rtl-to-gdsii/00-README.md)
+
+### REG-to-REG Synthesis & Timing Analysis
+
+RTL synthesis and timing analysis using Synopsys Design Compiler.
+
+[View Project](projects/reg-to-reg-synthesis/00-README.md)
 
 ## Learning
 
