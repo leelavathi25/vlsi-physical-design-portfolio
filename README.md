@@ -43,7 +43,7 @@
 
 RTL synthesis and timing analysis using Synopsys Design Compiler.
 
-[View Project](./projects/reg-to-reg-synthesis/00-README.md)
+[View Project](../projects/reg-to-reg-synthesis/00-README.md)
 
 ## Learning
 
