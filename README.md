@@ -1,28 +1,35 @@
 # VLSI Physical Design Portfolio
 
-Hi, I'm Leelavathi Rajana.
+## Leelavathi Rajana
 
-I am a 2024 B.Tech graduate in Electrical and Electronics Engineering, focused on VLSI Physical Design.
+**Entry-Level VLSI Physical Design Engineer**
 
-## Areas of Focus
+2024 B.Tech graduate in Electrical and Electronics Engineering with hands-on training in ASIC Physical Design and RTL synthesis.
 
-- RTL-to-GDSII
-- Floorplanning
-- Placement
-- Clock Tree Synthesis (CTS)
-- Routing
-- Static Timing Analysis (STA)
-- Timing Optimization
-- Physical Verification
-- Tcl
-- Python for VLSI Automation
+## Technical Skills
 
-## Tools
+### Physical Design
 
-- Cadence Genus
-- Cadence Innovus
-- Synopsys Design Compiler
-- Synopsys ICC2
+* RTL-to-GDSII
+* Floorplanning
+* Placement
+* Clock Tree Synthesis (CTS)
+* Routing
+* Static Timing Analysis (STA)
+* Timing Optimization
+* Physical Verification
+
+### Scripting
+
+* Tcl
+* Python for VLSI Automation
+
+### EDA Tools
+
+* Cadence Genus
+* Cadence Innovus
+* Synopsys Design Compiler
+* Synopsys ICC2
 
 ## Projects
 
@@ -30,13 +37,13 @@ I am a 2024 B.Tech graduate in Electrical and Electronics Engineering, focused o
 
 28nm ASIC Physical Design using Cadence Genus and Innovus.
 
-[View Project](projects/rtl-to-gdsii/00-README.md)
+[View Project](./projects/rtl-to-gdsii/00-README.md)
 
 ### Synthesis & Timing Analysis — `REG-to-REG`
 
 RTL synthesis and timing analysis using Synopsys Design Compiler.
 
-[View Project](projects/reg-to-reg-synthesis%20/00-README.md)
+[View Project](./projects/reg-to-reg-synthesis%20/00-README.md)
 
 ## Learning
 
