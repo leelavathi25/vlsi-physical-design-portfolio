@@ -28,9 +28,9 @@ Example:
 create_clock -name gg -period 1 [get_ports clk]
 ```
 
-![Create clock command](./09-create-clock.jpg)
+![Create clock command](images/09-create-clock.jpg)
 
-![Report clock output](./10-report-clock.jpg)
+![Report clock output](images/10-report-clock.jpg)
 
 ## Input and Output Delays
 
