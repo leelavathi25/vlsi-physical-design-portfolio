@@ -37,9 +37,9 @@ Hands-on ASIC Physical Design project implementing the `iguana_soc` block throug
 
 ## Project Documentation
 
-* [Synthesis](synthesis.md)
-* [Floorplanning](floorplan.md)
-* [Placement](placement.md)
-* [Clock Tree Synthesis](cts.md)
-* [Routing](routing.md)
-* [Post-Route Analysis](post-route.md)
+- [Synthesis](01-synthesis.md)
+- [Floorplanning](02-floorplan.md)
+- [Placement](03-placement.md)
+- [Clock Tree Synthesis](04-CTS.md)
+- [Routing](05-Route.md)
+- [Post-Route Analysis](06-Post-route.md)
