@@ -29,7 +29,7 @@ Convert the RTL design into an optimized gate-level netlist while applying the r
 
 ### Library Setup
 
-![Link library command](./01-link-library.jpg)
+![Link library command](images/01-link-library.jpg)
 
 ![Target library command](./02-target-library.jpg)
 
