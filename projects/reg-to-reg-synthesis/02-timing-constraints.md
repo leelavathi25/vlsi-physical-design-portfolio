@@ -69,7 +69,7 @@ Load constraints were used to represent the capacitance that output drivers must
 
 Path groups were used to organize specific timing paths for targeted timing analysis and optimization.
 
-![Path grouping command](../images/15-group-path.jpg)
+![Path grouping command](./15-group-path.jpg)
 
 ## Outcome
 
