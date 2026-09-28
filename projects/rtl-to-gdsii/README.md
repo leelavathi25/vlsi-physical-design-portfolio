@@ -31,3 +31,18 @@ RTL → Synthesis → Floorplanning → Placement → CTS → Routing → Timing
 - Static Timing Analysis (STA)
 - Timing Optimization
 - DRC / LVS / ERC
+
+## Learning and Hands-on Exposure
+
+During my Physical Design training, I gained hands-on exposure to:
+
+- ASIC RTL-to-GDSII implementation flow
+- Synthesis and design preparation
+- Floorplanning and power planning
+- Standard-cell placement
+- Clock Tree Synthesis (CTS)
+- Routing and congestion analysis
+- Static Timing Analysis (STA)
+- Timing optimization
+- Physical verification concepts
+- Tcl-based EDA tool interaction
