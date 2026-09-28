@@ -20,7 +20,7 @@ The timing report provides information about:
 - Path delays
 - Timing requirements
 
-![Timing report](./18-report-timing.jpg)
+![Timing report](images/18-report-timing.jpg)
 
 ## Slack Analysis
 
