@@ -38,9 +38,9 @@ Input delays were used to represent the timing contribution of external logic at
 
 Output delays were used to specify the timing requirements associated with output paths.
 
-![Set input delay command](./11-set-input-delay.jpg)
+![Set input delay command](images/11-set-input-delay.jpg)
 
-![Set output delay command](./12-set-output-delay.jpg)
+![Set output delay command](images/12-set-output-delay.jpg)
 
 ## Clock Uncertainty
 
@@ -51,9 +51,9 @@ The project considered both:
 * Setup uncertainty
 * Hold uncertainty
 
-![Setup uncertainty command](./13-setup-uncertainty.jpg)
+![Setup uncertainty command](images/13-setup-uncertainty.jpg)
 
-![Hold uncertainty command](./14-hold-uncertainty.jpg)
+![Hold uncertainty command](images/14-hold-uncertainty.jpg)
 
 ## Driving Cell and Load
 
@@ -61,15 +61,15 @@ Input driving-cell constraints were used to specify the external drive strength 
 
 Load constraints were used to represent the capacitance that output drivers must drive.
 
-![Driving cell command](./16-set-driving-cell.jpg)
+![Driving cell command](images/16-set-driving-cell.jpg)
 
-![Load command](./17-set-load.jpg)
+![Load command](images/17-set-load.jpg)
 
 ## Path Grouping
 
 Path groups were used to organize specific timing paths for targeted timing analysis and optimization.
 
-![Path grouping command](./15-group-path.jpg)
+![Path grouping command](images/15-group-path.jpg)
 
 ## Outcome
 
