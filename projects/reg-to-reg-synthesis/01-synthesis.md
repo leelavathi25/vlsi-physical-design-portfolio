@@ -31,25 +31,25 @@ Convert the RTL design into an optimized gate-level netlist while applying the r
 
 ![Link library command](images/01-link-library.jpg)
 
-![Target library command](./02-target-library.jpg)
+![Target library command](images/02-target-library.jpg)
 
 ### RTL Analysis and Elaboration
 
-![Analyze command](./03-analyze.jpg)
+![Analyze command](images/03-analyze.jpg)
 
-![Elaborate command](./04-elaborate.jpg)
+![Elaborate command](images/04-elaborate.jpg)
 
 ### Compilation and GUI
 
-![Compile command](./05-compile.jpg)
+![Compile command](images/05-compile.jpg)
 
-![Start GUI command](./06-start-gui.jpg)
+![Start GUI command](images/06-start-gui.jpg)
 
 ### Design and Timing Checks
 
-![Check design command](./07-check-design.jpg)
+![Check design command](images/07-check-design.jpg)
 
-![Check timing command](./08-check-timing.jpg)
+![Check timing command](images/08-check-timing.jpg)
 
 ## Work Performed
 
