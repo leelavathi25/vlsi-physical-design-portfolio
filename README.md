@@ -36,7 +36,7 @@ I am a 2024 B.Tech graduate in Electrical and Electronics Engineering, focused o
 
 RTL synthesis and timing analysis using Synopsys Design Compiler.
 
-[View Project](projects/reg-to-reg-synthesis/00-README.md)
+[View Project](projects/reg-to-reg-synthesis%20/00-README.md)
 
 ## Learning
 
