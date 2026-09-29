@@ -39,7 +39,7 @@ RTL synthesis and timing analysis using Synopsys Design Compiler.
 
 [View Project](./projects/reg-to-reg-synthesis/00-README.md)  
 
-### Tile — Physical Design Implementation
+### Physical Design Implementatio — `Tile`
 
 28nm ASIC Physical Design implementation using Synopsys Design Compiler and ICC2.
 
