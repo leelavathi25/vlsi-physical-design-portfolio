@@ -44,4 +44,20 @@ Spare cells were inserted as part of the placement stage.
 
 ## Outcome
 
-The placement stage was completed with legal placement, acceptable congestion, zero maximum-transition violations, and zero maximum-capacitance violations.
+The placement stage was completed with legal placement, acceptable congestion, zero maximum-transition violations, and zero maximum-capacitance violations.     
+
+## Placement Visualization
+
+### Cell Density
+
+![Cell Density](images/01-cell-density.png)
+
+### Congestion
+
+![Congestion](images/02-congestion.png)
+
+### Spare Cell Distribution
+
+![Spare Cell Distribution](images/03-spare-cells-1.png)
+
+![Spare Cell Distribution](images/04-spare-cells-2.png)
