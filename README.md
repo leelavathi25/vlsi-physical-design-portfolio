@@ -33,17 +33,23 @@
 
 ## Projects
 
+### Synthesis & Timing Analysis — `REG-to-REG`
+
+RTL synthesis and timing analysis using Synopsys Design Compiler.
+
+[View Project](./projects/reg-to-reg-synthesis/00-README.md)  
+
+### Tile — Physical Design Implementation
+
+28nm ASIC Physical Design implementation using Synopsys Design Compiler and ICC2.
+
+[View Project](./projects/Tile/00-README.md) 
+
 ### RTL-to-GDSII Physical Design — `iguana_soc`
 
 28nm ASIC Physical Design using Cadence Genus and Innovus.
 
 [View Project](./projects/rtl-to-gdsii/00-README.md)
-
-### Synthesis & Timing Analysis — `REG-to-REG`
-
-RTL synthesis and timing analysis using Synopsys Design Compiler.
-
-[View Project](./projects/reg-to-reg-synthesis/00-README.md)
 
 ## Learning
 
