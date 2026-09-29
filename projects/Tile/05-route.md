@@ -33,3 +33,9 @@ Initial routing produced DRC, short, and open violations that were subsequently 
 ## Outcome
 
 The routing stage was completed and the design progressed to post-route analysis and signoff. The final post-route stage achieved zero DRC violations, zero shorts, and zero opens.
+
+## Final Design Visualization
+
+### Filler Cell Distribution
+
+![Filler Cell Distribution](images/07-filler-cells.png)
