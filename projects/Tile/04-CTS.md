@@ -80,3 +80,13 @@ Reported maximum clock latency values were:
 ## Outcome
 
 The CTS stage was completed with the clock tree implemented and clock-tree reports generated. Post-CTS timing, skew, latency, congestion, and clock DRCs were analyzed.
+
+## CTS Visualization
+
+### Post-CTS Congestion
+
+![CTS Congestion](images/05-cts-congestion.png)
+
+### Post-CTS Cell Density
+
+![CTS Cell Density](images/06-cts-cell-density.png)
